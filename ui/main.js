@@ -3,7 +3,7 @@ button.onlick = function () {
     // make requets to counter endpoint
     
     // capture response and store in a variable
-    var request = new XMLHttpRequest();
+    
     
     
     // render the variable in the correct span
